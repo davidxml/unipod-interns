@@ -1,6 +1,6 @@
 # Unipod-Interns
 
-A platform where the interns at the University of Lagos AI-UniPod access learning materials and training instructions[cite: 2].
+A platform where the interns at the University of Lagos AI-UniPod access learning materials and training instructions.
 
 ## System Architecture
 
